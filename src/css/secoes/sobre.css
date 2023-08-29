@@ -11,6 +11,7 @@
 }
 
 .sobre-mim .imagem-sobre-mim img {
+    width: 100%;
     border: 10px solid transparent;
     border-radius: 5px;
 }

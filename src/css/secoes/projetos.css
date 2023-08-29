@@ -46,7 +46,7 @@
 }
 
 .projetos .container-projetos .projeto .informacoes-projeto p:nth-child(2) {
-    font-weight: 500;
+    font-weight: 700;
     margin-top: 10px;
     font-size: 1.4rem;
 }
@@ -58,8 +58,6 @@
     opacity: 0.7;
     background-color: var(--cor-fundo-escuro);
     width: 100%;
-    padding-left: 20px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding: 10px 0px 10px 20px;
     bottom: 0;
 }
