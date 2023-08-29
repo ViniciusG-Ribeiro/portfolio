@@ -2,7 +2,7 @@
     padding: 30px 15px;
 }
 
-.header .logo {
+/* .header .logo {
     font-family: var(--fonte-secundaria);
     font-size: var(--fonte-extra-grande);
     color: var(--cor-branca);
@@ -19,7 +19,7 @@
 .header a:hover .logo {
     color: var(--cor-primaria);
     border: 2px solid var(--cor-primaria);
-}
+} */
 
 .header nav ul {
     display: flex;
