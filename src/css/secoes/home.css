@@ -13,6 +13,15 @@
     width: 50%;
     margin: auto;
     padding: auto 0;
+    min-width: 340px;
+    max-width: 960px;
+}
+
+@media(max-width:875px){
+    .home .cracha{
+        width: 80%;
+        max-width: 435px;
+    }
 }
 
 .home .texto-home {
@@ -63,6 +72,12 @@
     font-size: var(--fonte-gigante);
     font-weight: 700;
     margin-bottom: 20px;
+}
+
+@media(max-width:527px){
+    .home .texto-home h1 {
+        font-size: var(--fonte-extra-grande);
+    }
 }
 
 .home .texto-home h2 {
